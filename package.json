@@ -2,7 +2,7 @@
   "name": "TigerCall",
   "version": "1.0.0",
   "description": "La llamada del Tigre",
-  "main": "TigerCall.js",
+  "main": "bot.js",
   "author": "Patxi",
   "dependencies": {
     "discord.js": "^11.3.2",
