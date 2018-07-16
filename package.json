@@ -1,0 +1,12 @@
+{
+  "name": "TigerCall",
+  "version": "1.0.0",
+  "description": "La llamada del Tigre",
+  "main": "TigerCall.js",
+  "author": "Patxi",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "nan": "^2.10.0",
+    "winston": "^2.4.2"
+  }
+}
