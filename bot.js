@@ -34,8 +34,8 @@ bot.on('message', (message) => {
 
 			const oldChannel = member.voiceChannelID;
 
-			const channel = message.guild.channels.get('401851363111469066');
-			const channel2 = message.guild.channels.get('398970313301426177');
+			const channel = message.guild.channels.get('496442523875803158');
+			const channel2 = message.guild.channels.get('496442542896971777');
 
 			for(i=0; i < 5; i++){
 
